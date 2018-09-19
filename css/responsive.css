@@ -1,0 +1,22 @@
+@media (max-width: 767px) {
+  .banner {
+    text-align: center; }
+    .banner .logo {
+      margin: 20px 0; }
+    .banner form input {
+      width: 100%; }
+    .banner form .submit-btn {
+      right: 91.5%;
+      top: -40px; }
+  .menu_ms ul {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    text-align: center; }
+    .menu_ms ul li {
+      width: 50%; }
+  .list-inline > li {
+    padding: 0; }
+  .content .right-col .btn_ms .buy-btn {
+    width: 82%; } }
