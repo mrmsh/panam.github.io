@@ -1,1 +1,1 @@
-# panam.github.io
+# panam
